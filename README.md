@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Things I've built with:
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=black&color=lightyellow)
+![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=blue&logoSize=auto&labelColor=lightblue&color=lightblue)
 ![Static Badge](https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoSize=auto&color=lightgreen)
 ![Static Badge](https://img.shields.io/badge/Flutter-Dart-lightblue?style=for-the-badge&logo=flutter&logoColor=lightblue&logoSize=auto&labelColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/php-yellow?style=for-the-badge&logo=php&logoColor=lightyellow&logoSize=auto&labelColor=black&color=FFFF00)
