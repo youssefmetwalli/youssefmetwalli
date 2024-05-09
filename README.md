@@ -6,7 +6,7 @@
 - 🌱 I’m currently working as a part-time software developer for [Asera](https://www.asera.co.jp/about/)'s IT department.
 - 📫 Reach me on s1292011@u-aizu.ac.jp or ymetwalli22@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a trilingual half Egyptian, half Japanese 20 yr old
+- ⚡ More about me: I'm a trilingual half Egyptian, half Japanese 20 yr old
 
 ## Things I've built with:
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
