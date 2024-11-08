@@ -1,8 +1,8 @@
 ### Hi there 👋  
 ### Welcome to my Github profile, I'm Youssef
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmetwalli&show_icons=true&count_private=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmetwalli&show_icons=true&theme=dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmetwalli&theme=react-dark)
 
