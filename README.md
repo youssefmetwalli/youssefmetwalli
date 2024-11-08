@@ -2,11 +2,8 @@
 ### Welcome to my Github profile, I'm Youssef
 
 
-- 🔭 I’m currently a 3rd year Undergraduate student at the University of Aizu, Japan
-- 🌱 I’m currently working as a part-time software developer for [Asera](https://www.asera.co.jp/about/)'s IT department.
-- 📫 Reach me on s1292011@u-aizu.ac.jp or ymetwalli22@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ More about me: I'm a trilingual half Egyptian, half Japanese 20 yr old
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmetwalli&show_icons=true&theme=dark)
+
 
 ## Things I've built with:
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
