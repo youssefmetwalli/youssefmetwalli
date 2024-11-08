@@ -4,7 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmetwalli&show_icons=true&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=youssefmetwalli&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmetwalli&theme=react-dark)
+
 
 ## Things I've built with:
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoSize=auto&labelColor=black)
