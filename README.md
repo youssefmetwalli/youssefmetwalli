@@ -19,7 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/tailwind_css-9370DB?style=for-the-badge&logo=tailwind%20css&logoColor=lightyellow&logoSize=auto&labelColor=9370DB&color=9370DB)
 ![Static Badge](https://img.shields.io/badge/Wordpress-grey?style=for-the-badge&logo=wordpress&logoColor=lightyellow&logoSize=auto&labelColor=21759B&color=21759B)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=lightyellow&logoSize=auto&labelColor=%233776AB&color=FFFF00)
-![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=lightyellow&logoSize=auto&labelColor=%23013243&color=%23013243)
+
 
 ## Databases:
 ![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=for-the-badge&logo=mysql&logoColor=lightyellow&logoSize=auto&labelColor=%234479A1&color=%234479A1)
